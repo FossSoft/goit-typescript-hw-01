@@ -10,10 +10,9 @@
   },
   "devDependencies": {
     "typescript": "^5.2.2",
-    "vite": "^5.2.11"
+    "vite": "^5.2.0"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "^4.2.1",
-    "axios": "^1.6.8"
+    "axios": "^1.7.1"
   }
 }
