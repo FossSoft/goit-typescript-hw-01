@@ -1,4 +1,2 @@
-let variable: string | number;
-
-let statuS: 'enable' | 'disable';
-
+let value: string | number;
+let userStatus: "enable" | "disable";
